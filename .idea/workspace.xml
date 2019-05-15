@@ -4,16 +4,15 @@
     <bookmark url="file://$PROJECT_DIR$/bicycles.py" line="6" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7abb7b-1e8d-49ee-b732-8a0bb82556f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alien_color.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amusement_park.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/voting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="bd7abb7b-1e8d-49ee-b732-8a0bb82556f4" name="Default Changelist" comment="April 28th">
+      <change afterPath="$PROJECT_DIR$/alien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favorate_languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/babbed_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/babbed_users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toppings.py" beforeDir="false" afterPath="$PROJECT_DIR$/toppings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/admin.py" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +21,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/admin.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alien.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+            <state relative-caret-position="363">
+              <caret line="41" selection-start-line="41" selection-end-line="46" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/favorate_languages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="69" column="74" selection-start-line="69" selection-start-column="74" selection-end-line="69" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -66,14 +83,16 @@
         <option value="$PROJECT_DIR$/alien_color.py" />
         <option value="$PROJECT_DIR$/toppings.py" />
         <option value="$PROJECT_DIR$/admin.py" />
+        <option value="$PROJECT_DIR$/alien.py" />
+        <option value="$PROJECT_DIR$/user.py" />
+        <option value="$PROJECT_DIR$/favorate_languages.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="207" />
-    <option name="y" value="75" />
-    <option name="width" value="1350" />
-    <option name="height" value="995" />
+    <option name="y" value="387" />
+    <option name="width" value="1129" />
+    <option name="height" value="924" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -94,13 +113,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.admin">
+  <component name="RunManager" selected="Python.favorate_languages">
     <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/admin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1-6/admin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="alien_color" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="alien" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +169,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien_color.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1-6/alien.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="amusement_park" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="favorate_languages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +190,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amusement_park.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1-6/favorate_languages.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +211,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toppings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1-6/toppings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="voting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="user" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,7 +232,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/voting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1-6/user.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,33 +243,63 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.favorate_languages" />
+        <item itemvalue="Python.user" />
+        <item itemvalue="Python.alien" />
         <item itemvalue="Python.admin" />
         <item itemvalue="Python.toppings" />
-        <item itemvalue="Python.alien_color" />
-        <item itemvalue="Python.amusement_park" />
-        <item itemvalue="Python.voting" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd7abb7b-1e8d-49ee-b732-8a0bb82556f4" name="Default Changelist" comment="" />
+      <created>1557149612094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557149612094</updated>
+    </task>
+    <task id="LOCAL-00001" summary="May 6th">
+      <created>1557153332959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557153332959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="387" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info id="Structure" order="0" weight="0.25" />
-      <window_info id="Run" order="1" visible="true" weight="0.2707889" />
-      <window_info id="Python Console" order="2" weight="0.28944564" />
+      <window_info id="Structure" order="0" weight="0.24986821" />
+      <window_info id="Run" order="1" visible="true" weight="0.416447" />
+      <window_info id="Python Console" order="2" weight="0.28940433" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="0" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="1" visible="true" weight="0.24291939" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.38235295" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.3040089" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.38084632" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="8" />
-      <window_info anchor="bottom" content_ui="combo" id="Project" order="9" weight="0.23856209" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" content_ui="combo" id="Project" order="9" visible="true" weight="0.2635135" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -299,7 +350,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter 4" />
     <MESSAGE value="Chapter 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 5" />
+    <MESSAGE value="April 28th" />
+    <MESSAGE value="May 6th" />
+    <option name="LAST_COMMIT_MESSAGE" value="May 6th" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -308,6 +361,11 @@
           <url>file://$PROJECT_DIR$/bicycles.py</url>
           <line>6</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/admin.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -390,13 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/food.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/car.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -432,13 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alien_color.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/toppings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
@@ -446,10 +490,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/桌面/P413-gal.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        <state relative-caret-position="329">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alien_color.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alien.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="41" selection-start-line="41" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorate_languages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="69" column="74" selection-start-line="69" selection-start-column="74" selection-end-line="69" selection-end-column="74" />
         </state>
       </provider>
     </entry>

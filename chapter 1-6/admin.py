@@ -19,12 +19,6 @@ for new_user in new_users:
 
 
 
-
-
-
-
-
-
 numbers = list(range(1,10))
 for number in numbers:
     if number < 2:
@@ -44,4 +38,4 @@ for number in numbers:
     elif number < 9:
         print("8th\n")
     else:
-        print("9th\n")
+        print("9t\n")
