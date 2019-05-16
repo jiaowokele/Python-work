@@ -68,3 +68,16 @@ for name in favorate_languages.keys():
         print(name.title() + ", thank you!")
     else:
         print(name.title() + ", I am glad to invite you for investigation!")
+
+
+favorate_languages = {
+    'jen': ['python','c'],
+    'sarah': ['c' ,'c++'],
+    'edward': ['ruby'],
+    'phil': ['python','R']
+}
+
+for name,languages in favorate_languages.items():
+    print("\n" + name.title() + "'s favorate languages is:")
+    for language in languages:
+        print("\t" + language.title())
